@@ -1,0 +1,15 @@
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\bin\Debug\net8.0\AspProjekat.Application.deps.json
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\bin\Debug\net8.0\AspProjekat.Application.dll
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\bin\Debug\net8.0\AspProjekat.Application.pdb
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\bin\Debug\net8.0\AspProjekat.Domain.dll
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\bin\Debug\net8.0\AspProjekat.Domain.pdb
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\obj\Debug\net8.0\AspProjekat.Application.csproj.AssemblyReference.cache
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\obj\Debug\net8.0\AspProjekat.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\obj\Debug\net8.0\AspProjekat.Application.AssemblyInfoInputs.cache
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\obj\Debug\net8.0\AspProjekat.Application.AssemblyInfo.cs
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\obj\Debug\net8.0\AspProjekat.Application.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\obj\Debug\net8.0\AspProje.AB875848.Up2Date
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\obj\Debug\net8.0\AspProjekat.Application.dll
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\obj\Debug\net8.0\refint\AspProjekat.Application.dll
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\obj\Debug\net8.0\AspProjekat.Application.pdb
+C:\Users\Eric\Downloads\AspProjekat\AspProjekat.Application\obj\Debug\net8.0\ref\AspProjekat.Application.dll

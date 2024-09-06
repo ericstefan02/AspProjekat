@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "DGRKX+zYLvJD9aMCm9MLy1v8oMi91JJGUEDZYAVqiYU=",
+  "Source": "AspProjekat.API",
+  "BasePath": "_content/AspProjekat.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspProjekat.API\\wwwroot",
+      "Source": "AspProjekat.API",
+      "ContentRoot": "C:\\Users\\Eric\\Downloads\\AspProjekat\\AspProjekat.API\\wwwroot\\",
+      "BasePath": "_content/AspProjekat.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
